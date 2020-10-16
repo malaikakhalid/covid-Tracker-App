@@ -83,7 +83,7 @@ function App() {
       <div className="app__left">
         {/* Header */}
         <div className="app__header">
-          <h1>Covid 19 Tracker App</h1>
+          <h2 style = {{backgroundColor:blue}}>Covid 19 Tracker App</h2>
           <FormControl>
             <Select
               variant="outlined"
